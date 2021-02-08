@@ -1,0 +1,1 @@
+(()=>{"use strict";var e={591:(e,t)=>{Object.defineProperty(t,"__esModule",{value:!0}),t.Class1=void 0;t.Class1=function(){}},607:(e,t,r)=>{new(r(591).Class1);var n=document.createElement("div");n.innerText="hello wortld",document.body.appendChild(n)}},t={};!function r(n){if(t[n])return t[n].exports;var o=t[n]={exports:{}};return e[n](o,o.exports,r),o.exports}(607)})();
